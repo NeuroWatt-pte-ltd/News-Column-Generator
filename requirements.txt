@@ -1,0 +1,29 @@
+# Core dependencies
+openai==1.58.1         # for OpenAI API calls
+python-dotenv==1.0.1   # to load .env variables
+tenacity==8.5.0        # for @retry decorators
+numpy==1.26.4          # used within topic_modeling scripts
+PyYAML==6.0.1         # for YAML configuration files
+
+# Text processing and NLP
+gensim==4.3.3          # for LDA topic modeling
+jieba==0.42.1          # for Chinese text segmentation
+nltk==3.9.1            # for English stopwords and tokenization
+scikit-learn==1.5.1    # for TfidfVectorizer
+pyvi==0.1.1            # for Vietnamese text processing
+
+# HTTP and API requests
+requests==2.32.3       # for HTTP requests
+aiohttp==3.11.11       # for async HTTP requests
+httpx==0.28.1          # for HTTP/2 support
+
+# Time and scheduling
+pytz==2024.1           # for timezone handling
+
+
+# Optional dependencies (comment out if not needed)
+# torch==2.4.0         # for GPU usage in translations/topic modeling
+# motor==3.7.0         # for MongoDB operations
+# boto3==1.28.0        # for AWS S3 operations
+# llama-index==0.11.16 # for LLM calls via llama_index.llms.openai
+# imgurpython==1.1.7   # for uploading images to Imgur

@@ -1,0 +1,74 @@
+[
+  {
+    "_id": 0,
+    "source": "TechGlobal News",
+    "category": "Technology",
+    "title": "Tech Giant Announces New AI Research Lab in Taiwan",
+    "url": "https://example-news.com/tech/2025/ai-lab-taiwan",
+    "publishedAt": "2025-04-05 09:30:00",
+    "summary": "A leading technology company plans to establish a cutting-edge AI research laboratory in Taipei, creating hundreds of jobs and strengthening Taiwan's position in global AI development."
+  },
+  {
+    "_id": 1,
+    "source": "Asia Financial Times",
+    "category": "Economics",
+    "title": "Central Bank Maintains Interest Rates Amid Economic Growth",
+    "url": "https://example-news.com/economy/central-bank-rates-unchanged",
+    "publishedAt": "2025-04-04 16:45:00",
+    "summary": "Taiwan's central bank has decided to keep interest rates unchanged at its quarterly meeting, citing stable inflation and continued economic growth despite global uncertainties."
+  },
+  {
+    "_id": 2,
+    "source": "Global Science Report",
+    "category": "Science",
+    "title": "Breakthrough in Quantum Computing Achieved by US-Taiwan Research Team",
+    "url": "https://example-news.com/science/quantum-computing-breakthrough",
+    "publishedAt": "2025-04-06 08:15:00",
+    "summary": "A joint research team from MIT and National Taiwan University has announced a significant advancement in quantum computing stability, potentially accelerating practical applications."
+  },
+  {
+    "_id": 3,
+    "source": "Southeast Asia Business Journal",
+    "category": "Business",
+    "title": "Vietnam's Renewable Energy Sector Sees Record Foreign Investment",
+    "url": "https://example-news.com/business/vietnam-renewable-energy-investment",
+    "publishedAt": "2025-04-05 10:30:00",
+    "summary": "Foreign direct investment in Vietnam's renewable energy sector reached a record $3.8 billion in the first quarter of 2025, driven by solar and offshore wind projects."
+  },
+  {
+    "_id": 4,
+    "source": "International Health Chronicle",
+    "category": "Health",
+    "title": "Major Breakthrough in Alzheimer's Treatment Reported by US Researchers",
+    "url": "https://example-news.com/health/alzheimers-treatment-breakthrough",
+    "publishedAt": "2025-03-25 14:20:00",
+    "summary": "A clinical trial led by researchers at Stanford University has shown promising results for a new Alzheimer's treatment that targets the disease's underlying mechanisms rather than symptoms."
+  },
+  {
+    "_id": 5,
+    "source": "Pacific Semiconductor Weekly",
+    "category": "Business",
+    "title": "Taiwan Semiconductor Industry Shows Resilience Amid Global Chip Shortage",
+    "url": "https://example-news.com/business/taiwan-semiconductor-resilience",
+    "publishedAt": "2025-04-02 11:15:00",
+    "summary": "Taiwan's semiconductor manufacturers have maintained strong production capacity despite continued global supply chain challenges, with TSMC reporting record quarterly output."
+  },
+  {
+    "_id": 6,
+    "source": "Digital Economy Observer",
+    "category": "Technology",
+    "title": "Vietnam Emerges as Southeast Asia's Fastest-Growing Digital Economy",
+    "url": "https://example-news.com/technology/vietnam-digital-economy-growth",
+    "publishedAt": "2025-04-03 09:45:00",
+    "summary": "Vietnam's digital economy grew by 28% in 2024, outpacing regional neighbors and attracting significant venture capital investment in fintech, e-commerce, and digital services."
+  },
+  {
+    "_id": 7,
+    "source": "Global Markets Digest",
+    "category": "Finance",
+    "title": "Wall Street Rallies as Fed Signals Potential Rate Cuts",
+    "url": "https://example-news.com/finance/wall-street-fed-signals-rate-cuts",
+    "publishedAt": "2025-03-26 16:30:00",
+    "summary": "U.S. stock markets surged on Wednesday after Federal Reserve minutes revealed discussions about potential interest rate reductions later this year if inflation continues to moderate."
+  }
+]

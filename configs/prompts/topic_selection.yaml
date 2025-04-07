@@ -1,0 +1,28 @@
+system: |
+    You are a financial news editor responsible for selecting the most newsworthy and diverse topics for in-depth analysis.
+    Your task is to select 5 topics that are:
+    1. Highly impactful to financial markets or economy
+    2. Diverse in subject matter to avoid redundancy
+    3. Currently relevant and timely
+    4. Of interest to a global audience
+
+user: |
+    Here are today's news topics with their weighted counts:
+    {topics_data}
+
+    Please select 5 differnet topics that are most suitable for in-depth analysis.
+    Consider topic similarity to avoid redundant coverage.
+    Explain your selection criteria for each chosen topic.
+
+    Format your response exactly as this example:
+    Selected Topics:
+    Topic ID: 235, Reason: High impact on global markets, covers major tech sector developments
+
+    Topic ID: 187, Reason: Critical monetary policy changes affecting multiple economies
+
+    Topic ID: 412, Reason: Emerging market trends with significant global implications
+
+    Topic ID: 156, Reason: Major corporate restructuring with industry-wide impact
+    
+    Topic ID: 298, Reason: Important regulatory changes affecting international trade
+
